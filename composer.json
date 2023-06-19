@@ -14,6 +14,11 @@
             "name": "TIG",
             "email": "servicedesk@tig.nl",
             "homepage": "http://tig.nl"
+        },
+        {
+            "name": "Tinify",
+            "email": "support@tinify.com",
+            "homepage": "https://tinify.com"
         }
     ],
     "version": "v1.3.4",
