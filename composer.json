@@ -21,7 +21,7 @@
             "homepage": "https://tinify.com"
         }
     ],
-    "version": "v1.3.4",
+    "version": "v1.3.5",
     "autoload": {
         "files": [
             "registration.php"
